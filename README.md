@@ -1,5 +1,9 @@
 # Detection du langage des signes (alphabet)
 
+ce prjoet contine 2 branche : 
+* main : la branche principale du projet
+* autre model : la branche contien un autre model et une autre methode de detection sur la cam
+
 
 ## Content
 * _Tensorflow_ : Dossier de travail
