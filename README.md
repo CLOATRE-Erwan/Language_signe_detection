@@ -1,8 +1,8 @@
 # Detection du langage des signes (alphabet)
 
-ce prjoet contine 2 branche : 
+Ce projet contient 2 branches : 
 * main : la branche principale du projet
-* autre model : la branche contien un autre model et une autre methode de detection sur la cam
+* autre model : la branche contient un second model et une autre méthode de détection sur la cam
 
 
 ## Content
