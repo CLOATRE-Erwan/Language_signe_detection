@@ -23,6 +23,6 @@ Le dataset est constitué de photos prises par nous-même.
 Il est formé d'environ 227 photos de signes qui correspondent aux lettres de l'aphabet de A-Z __sans__ J et Z
 
 
-## lien Trello
+## Lien Trello
 
 https://trello.com/b/e574ekYR/langue-des-signes-erwan-eva-patricia
