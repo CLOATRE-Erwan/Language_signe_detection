@@ -1,4 +1,4 @@
-# Language signe detection
+# Language signe détection
 
 Reconnaissance de la langue des signes
 
@@ -17,4 +17,4 @@ Objectifs du projet :
 
 Notre modèle de reconnaissance est plutôt performant 
 
-!(image](previsions.jpg)
+!(image](previsions.JPG)
