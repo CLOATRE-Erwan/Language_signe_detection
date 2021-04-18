@@ -1,4 +1,4 @@
-# Detection du langage des signes (alphabet)
+# Détection du langage des signes (alphabet)
 
 Ce projet contient 2 branches : 
 * main : la branche principale du projet
