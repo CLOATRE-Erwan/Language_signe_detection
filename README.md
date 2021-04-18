@@ -17,4 +17,5 @@ Objectifs du projet :
 
 Notre modèle de reconnaissance est plutôt performant 
 
-!(image](previsions.JPG)
+
+![image](previsions.JPG)
