@@ -9,7 +9,7 @@ Ce projet contient 2 branches :
 * _signe_detection_model_creation_ : Notebook de la création du modèle
 * _signe_detection_ : Notebook de la detection des signes sur une image ou en temps réel
 * _ressources_ : Ressource pour le readme
-* * _Tensorflow_ : Dossier de travail
+* _Tensorflow_ : Dossier de travail
 
 ## Explications
 
